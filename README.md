@@ -5,7 +5,7 @@ A library of react reusable components build with the help of PluralSight
 ## install 
 
 ```
-  npm install or yarn
+  npm install or yarn 
 ```
 
 # Docs
