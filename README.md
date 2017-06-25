@@ -1,6 +1,6 @@
 # React Re-Usable Components
 
-A library of react reusable components build with the help of PluralSight
+A library of react reusable components build
 
 ## install 
 
